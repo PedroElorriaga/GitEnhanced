@@ -1,0 +1,7 @@
+Passos de como simulei o envio de um incidente
+
+# 1 
+Crie um branch chamada feature/123-hello-cli a partir da branch develop
+
+# 2 
+Criei este arquivo como forma de simular uma alteração/inclusão de novas funcionalidades no código
