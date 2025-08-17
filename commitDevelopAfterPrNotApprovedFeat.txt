@@ -1,1 +1,9 @@
 Criei este arquivo antes do PR de feat ser aprovado (MAS O PR JA ESTA CRIADO)
+
+
+Passos de uma nova branch para uma fix ou qualquer outra coisa
+
+git checkout -b hotfix/456-fix-crash
+# ... correção ...
+git commit -m "fix: evita crash ao salvar"
+git push -u origin hotfix/456-fix-crash
